@@ -1,6 +1,11 @@
 # Vue 3  + Vite + Typescript + Tailwind + Shadcn/UI Vue
 
-Future CR faction plugin
+Currently got the plugin compatible with most browsers
+Tested the frameworks
+
+NOT ANY REAL TORN FUCTIONS YET
+
+Just laying the foundation
 
 ## Recommended Setup
 
