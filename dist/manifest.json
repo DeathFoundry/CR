@@ -1,0 +1,26 @@
+{
+    "manifest_version": 3,
+    "name": "CRext",
+    "description": "CR browser extension .",
+    "version": "1.0",
+    
+    "icons": {
+      "32": "images/icon-32.png"
+    },
+
+    "action": {
+      
+      "default_icon":{
+        "32": "images/icon-32.png"
+      },
+
+        "default_popup": "index.html"
+    },
+
+    "host_permissions": [
+      "https://*.torn.com/",
+      "https://*.legacitech.com/"
+    ]
+    
+  }
+  
