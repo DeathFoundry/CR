@@ -3,12 +3,14 @@ import { useColorMode } from '@vueuse/core'
 import { Icon } from '@iconify/vue'
 import { Button } from '@/components/ui/button'
 import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuTrigger } from '@/components/ui/dropdown-menu'
+import { Input } from '@/components/ui/input'
 
 defineProps<{ msg: string }>()
 const mode = useColorMode()
 </script>
 
 <template>
+  
   <DropdownMenu>
     <DropdownMenuTrigger as-child>
       <Button variant="outline">
@@ -30,9 +32,9 @@ const mode = useColorMode()
     </DropdownMenuContent>
   </DropdownMenu>
 
-  <h1>{{ msg }}</h1>
+  <Input type="string" placeholder="API Key" />
 
   <div class="card">
-    <Button>Just a test Button</Button>
+    <Button>Log In</Button>
   </div>
 </template>
