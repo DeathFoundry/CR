@@ -4,7 +4,7 @@ import DarkMode from './components/DarkMode.vue';
 </script>
 
 <template>
-<auth1><</Auth1>
+<Auth1><</Auth1>
 <DarkMode></DarkMode>
 </template>
 
