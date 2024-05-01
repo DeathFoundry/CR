@@ -10,7 +10,7 @@ const mode = useColorMode()
 </script>
 
 <template>
-  
+
   <DropdownMenu>
     <DropdownMenuTrigger as-child>
       <Button variant="outline">
@@ -32,9 +32,10 @@ const mode = useColorMode()
     </DropdownMenuContent>
   </DropdownMenu>
 
-  <Input type="string" placeholder="API Key" />
+  <Input type="string" placeholder="API Key"/>
 
-  <div class="card">
+  <div>
     <Button>Log In</Button>
   </div>
+
 </template>
