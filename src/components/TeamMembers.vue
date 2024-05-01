@@ -46,7 +46,7 @@ const Legaci = ref('Member')
               DeathFoundry
             </p>
             <p class="text-sm text-muted-foreground">
-              m@example.com
+              DeathFoundry@example.com
             </p>
           </div>
         </div>
@@ -104,7 +104,7 @@ const Legaci = ref('Member')
               Legaci
             </p>
             <p class="text-sm text-muted-foreground">
-              p@example.com
+              Legaci@example.com
             </p>
           </div>
         </div>
