@@ -3,6 +3,7 @@ import HelloWorld from './components/HelloWorld.vue'
 </script>
 
 <template>
+<<<<<<< Updated upstream
   <HelloWorld msg="Vite + Vue" />
   <div>
     <a href="https://vitejs.dev" target="_blank">
@@ -12,6 +13,10 @@ import HelloWorld from './components/HelloWorld.vue'
       <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
     </a>
   </div>
+=======
+<Auth1><</Auth1>
+<DarkMode></DarkMode>
+>>>>>>> Stashed changes
 </template>
 
 <style scoped>
