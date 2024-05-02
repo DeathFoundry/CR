@@ -23,7 +23,7 @@
         "maximum": 7500,
         "increment": 450,
         "interval": 300,
-        "ticktime": 96,
+        "ticktime": 86,
         "fulltime": 0
     },
     "status": {
@@ -67,7 +67,7 @@
     "last_action": {
         "status": "Idle",
         "timestamp": 1714599022,
-        "relative": "8 minutes ago"
+        "relative": "13 minutes ago"
     },
     "competition": {
         "name": "Rock, Paper, Scissors",
